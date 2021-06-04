@@ -12,7 +12,7 @@ All the exercises were done at [STM32CubeIDE](https://www.st.com/en/development-
 
 ## [Stack Pointers](https://github.com/lyangmdrs/stack_pointers)
 
-Exercise on STM32F047VET6 to learn how to initialize the SP register either from PSM as from MSP 
+Exercise on STM32F047VET6 to learn how to initialize the SP register either from PSP from MSP 
 
 ## [Peripheral Interruption](https://github.com/lyangmdrs/peripheral_interrupt)
 
